@@ -14,4 +14,4 @@ Then, turn off your modem and plug one end of an ethernet cable into it's WAN po
 
 #### Step 4
 
-Run the virtual image and turn on the modem after. The credentials should be auto-sent by your modem on boot and you should easily be able to see the username and password. It will say that it's incorrect, that's not important.
+Run the virtual image and turn on the modem after. The credentials should be auto-sent by your modem on boot and you should easily be able to see the username and password. It will say that the login is incorrect, that's not important.
